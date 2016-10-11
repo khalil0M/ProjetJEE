@@ -2,6 +2,7 @@ package beans;
 
 public class Services {
 
+	//class personne
 	
 	int idService;
 	String libelle;
